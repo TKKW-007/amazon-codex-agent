@@ -1,0 +1,22 @@
+{
+  "product": "amazon-ops-codex",
+  "tier": "basic",
+  "latest_preview": "1.0.0",
+  "stable_release": "1.0.0",
+  "version": "1.0.0",
+  "plugin_version": "1.0.0+codex-basic.20261121.1",
+  "updated": "2026-11-21",
+  "release_url": "https://github.com/TKKW-007/amazon-codex-agent/releases/tag/v1.0.0",
+  "platforms": {
+    "windows": {
+      "file": "Amazon-Ops-Codex-1.0.0-windows.zip",
+      "sha256": "3e7a15ed647faa0bce7993bdd4e307f69a4beddb85f6bf7b2bb485ebc51f1f94",
+      "bytes": 6267098
+    },
+    "macos": {
+      "file": "Amazon-Ops-Codex-1.0.0-macos.zip",
+      "sha256": "162805b2b36dc72071793667afcd585539601a5a271506b30c0c6a16fe695111",
+      "bytes": 6433761
+    }
+  }
+}
